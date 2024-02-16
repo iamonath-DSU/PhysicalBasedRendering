@@ -15,7 +15,7 @@ RenderSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 9
   m_Fog: 1
-  m_FogColor: {r: 0.8018868, g: 0.5635902, b: 0.6456581, a: 1}
+  m_FogColor: {r: 0.5647059, g: 0.8, b: 0.7709141, a: 1}
   m_FogMode: 3
   m_FogDensity: 0.007
   m_LinearFogStart: 24.1
@@ -12901,7 +12901,7 @@ Light:
   m_Type: 1
   m_Shape: 0
   m_Color: {r: 0.9292453, g: 0.9951074, b: 1, a: 1}
-  m_Intensity: 0.8
+  m_Intensity: 1
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -43349,6 +43349,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fir_Tree_Variation (35)
       objectReference: {fileID: 0}
+    - target: {fileID: 1752488151921142950, guid: b0406aad81c41cf429dd9a1a19a09f03,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1964355063655099842, guid: b0406aad81c41cf429dd9a1a19a09f03,
         type: 3}
       propertyPath: m_StaticEditorFlags
@@ -45492,6 +45497,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Fir_Tree_Variation (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1752488151921142950, guid: b0406aad81c41cf429dd9a1a19a09f03,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1964355063655099842, guid: b0406aad81c41cf429dd9a1a19a09f03,
         type: 3}
