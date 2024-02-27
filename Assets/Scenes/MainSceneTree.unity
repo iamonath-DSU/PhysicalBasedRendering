@@ -50842,7 +50842,7 @@ PrefabInstance:
     - target: {fileID: 1829663609878983753, guid: f482e259b53700b4890301a9e27e6a14,
         type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 2147483647
+      value: 127
       objectReference: {fileID: 0}
     - target: {fileID: 4623523777690751650, guid: f482e259b53700b4890301a9e27e6a14,
         type: 3}
