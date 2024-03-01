@@ -23463,7 +23463,7 @@ PrefabInstance:
     - target: {fileID: 4357042685260707063, guid: ad1388520e8578a4c918f0e94ae9b081,
         type: 3}
       propertyPath: m_CastShadows
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4357042685260707063, guid: ad1388520e8578a4c918f0e94ae9b081,
         type: 3}
@@ -26830,7 +26830,7 @@ PrefabInstance:
     - target: {fileID: 16439655503379569, guid: 4c59021cfdcbf7b4ebb3938331d0b87b,
         type: 3}
       propertyPath: m_CastShadows
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1962051800709045668, guid: 4c59021cfdcbf7b4ebb3938331d0b87b,
         type: 3}
@@ -33943,7 +33943,12 @@ PrefabInstance:
     - target: {fileID: 230896481515259252, guid: b97a7dd065d92f14b98aeec214a4e8e4,
         type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 2147483647
+      value: 127
+      objectReference: {fileID: 0}
+    - target: {fileID: 1744216113458537633, guid: b97a7dd065d92f14b98aeec214a4e8e4,
+        type: 3}
+      propertyPath: m_StaticShadowCaster
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3586516981720374800, guid: b97a7dd065d92f14b98aeec214a4e8e4,
         type: 3}
@@ -34518,7 +34523,7 @@ PrefabInstance:
     - target: {fileID: 6107235119315095939, guid: a2df3e78b96006646a47ff855ed1908e,
         type: 3}
       propertyPath: m_CastShadows
-      value: 3
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7472735040191338575, guid: a2df3e78b96006646a47ff855ed1908e,
         type: 3}
@@ -44313,7 +44318,7 @@ PrefabInstance:
     - target: {fileID: 16439655503379569, guid: 4c59021cfdcbf7b4ebb3938331d0b87b,
         type: 3}
       propertyPath: m_CastShadows
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 16439655503379569, guid: 4c59021cfdcbf7b4ebb3938331d0b87b,
         type: 3}
